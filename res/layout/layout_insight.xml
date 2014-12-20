@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    android:orientation="vertical" >
+
+    <include layout="@layout/layout_action_bar" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <View
+            android:layout_width="@dimen/dp_5"
+            android:layout_height="@dimen/dp_32"
+            android:background="@color/about_bg_color" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/transparent"
+            android:gravity="center|left"
+            android:paddingLeft="@dimen/dp_8"
+            android:text="@string/age_distribution"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/sp_16" />
+    </LinearLayout>
+    <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_200"
+        android:background="@android:color/transparent"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <View
+            android:layout_width="@dimen/dp_5"
+            android:layout_height="@dimen/dp_32"
+            android:background="@color/about_bg_color" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/transparent"
+            android:gravity="center|left"
+            android:paddingLeft="@dimen/dp_8"
+            android:text="@string/more_insights"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/sp_16" />
+    </LinearLayout>
+	<LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@android:color/transparent"/>
+</LinearLayout>

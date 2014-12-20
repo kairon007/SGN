@@ -1,0 +1,103 @@
+<resources>
+
+    <string name="app_name">Rude Boy</string>
+    <string name="welcome">Welcome</string>
+    <string name="new_user">New here? Sign Up!</string>
+    <string name="returning_user">Returning User</string>
+    <string name="email_address">Email address</string>
+    <string name="enter_email_address">Enter Email address</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="login_with">LOGIN WITH</string>
+    <string name="sign_up_with_facebook">Sign up with Facebook</string>
+    <string name="f">f</string>
+    <string name="sign_up">Sign up</string>
+    <string name="under_development">Under Development</string>
+    <string name="text">Text</string>
+    <string name="explore">EXPLORE</string>
+    <string name="near_by">NEARBY</string>
+    <string name="favourite">Favourite</string>
+    <string name="chat">Chat</string>
+    <string name="cool_name">Email Id</string>
+    <string name="lets_go">Let\'s Go!</string>
+    <string name="forgot_password">Forgot password?</string>
+	<string name="terms_conditions">Terms &amp; Conditions</string>
+	<string name="terms_conditions_msg">
+	Neither we nor any third parties provide any warranty or guarantee as to the accuracy, 
+	timeliness, performance, completeness or suitability of the information and materials found 
+	or offered on this website for any particular purpose.</string>
+	<string name="privacy_policy">Privacy Policy</string>
+	<string name="forgot_msg">Did you forget your password?\n
+	    No problem. Enter your email\n
+	    address below and we\'ll send you\n
+	    a link to reset your password.</string>
+	    <string name="send">Send</string>
+	    <string name="ok">OK</string>
+	    <string name="cancel">Cancel</string>
+	    <string name="age">Age</string>
+	    <string name="weight">Weight</string>
+	    <string name="height">Height</string>
+	    <string name="sex_role">Sex Role</string>
+	    <string name="hiv_status">HIV Status</string>
+	    <string name="_age">29</string>
+	    <string name="_weight">154lbs</string>
+	    <string name="_height">5\'11"</string>
+	    <string name="_sex_role">Top</string>
+	    <string name="_hiv_status">NEG</string>
+	    <string name="about">About</string>
+	    <string name="photos">Photos</string>
+	    <string name="insight">Insight</string>
+    	<string name="location">New-York - Approx. 0.99 Mi Away</string>
+    	<string name="profile">Profile</string>
+    	<string name="search">Search</string>
+    	<string name="member">Members</string>
+    	<string name="member_nmae">John Doe</string>
+    	<string name="fname">First Name</string>
+    	<string name="lname">Last Name</string>
+    	<string name="place">Germany</string>
+    	<string name="my_favorites">My Favorites</string>
+    	<string name="_my_favorites">MY FAVORITES</string>
+    	<string name="favorited_by">FAVORITED BY</string>
+    	<string name="buzz">Buzz</string>
+    	<string name="new_members">NEW MEMBERS</string>
+    	<string name="whos_viewed_u">WHO\'S VIEWED U</string>
+    	<string name="match_msg">Are you really serious? I can\'t believe it!</string>
+    	<string name="matchchat_time">07:43 AM</string>
+    	<string name="accept">Accept</string>
+    	<string name="tap_to_edit">Tap To Change</string>
+    	<string name="about_me">About Me</string>
+    	<string name="dob">DOB</string>
+    	<string name="country">Country</string>
+    	<string name="mobile">Mobile</string>
+    	<string name="relationship">Relationship</string>
+    	<string name="loking_for">Looking For</string>
+    	<string name="kys">KYS</string>
+    	<string name="know_your_status">Know Your Status</string>
+    	<string name="show_distance">Show Distance</string>
+    	<string name="interest">Interest</string>
+    	<string name="update">Update</string>
+    	<string name="match">Match</string>
+    	<string name="more_something">More Something</string>
+    	<string name="just_another_setting">Just Another Setting</string>
+    	<string name="other_setting">Other Setting</string>
+    	<string name="filters">Filters</string>
+    	<string name="premium_membership">Premium Membership</string>
+    	<string name="common_msg">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</string>
+    	<string name="setting">Setting</string>
+    	<string name="public_tab">Public Photo</string>
+    	<string name="private_tab">Private Photo</string>
+    	<string name="mypicyure">My Picture</string>
+    	<string name="gender">Gender</string>
+    	<string name="audio">Audio</string>
+    	<string name="vedio">Video</string>
+    	<string name="crop_ok">OK</string>
+    	<string name="crop_cancel">Cancel</string>
+    	<string name="_looking_for">LOOKING FOR:</string>
+    	<string name="_interest">INTERSETS:</string>
+    	<string name="_about_me">ABOUT ME:</string>
+    	<string name="looking_for_msg">RelationShip, Friends and Dates</string>
+    	<string name="enter_text">Enter Text</string>
+    	<string name="age_distribution">Age Distribution</string>
+    	<string name="more_insights">More Insights</string>
+    	
+</resources>
